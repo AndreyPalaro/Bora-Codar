@@ -8,6 +8,8 @@ Uma página de login
 
 🚀 Tecnologias
 -
+Esse projeto foi desenvolvido com as seguintes tecnologias: 
+
 HTML e CSS
 
 JavaScript e DOM
