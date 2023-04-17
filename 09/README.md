@@ -8,6 +8,8 @@ Conversor de moedas
 
 🚀 Tecnologias
 -
+Esse projeto foi desenvolvido com as seguintes tecnologias: 
+
 HTML, CSS e JS
 
 📝 Licença
