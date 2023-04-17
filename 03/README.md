@@ -8,6 +8,9 @@ Botões e cursores
 
 🚀 Tecnologias
 -
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 HTML, CSS e JS
 
 Git e Github
