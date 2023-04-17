@@ -11,7 +11,7 @@ Botões e cursores
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-HTML, CSS e JS
+HTMLb e CSS 
 
 Git e Github
 
