@@ -2,7 +2,7 @@ Player de Música
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB.
 
-![Tecnologias]   |   ![Licença]
+[Tecnologias]   |   [Licença]
 
 ![LicenseMIT](![licenseMIT](https://user-images.githubusercontent.com/124744877/232573480-7bad5699-8b5d-4cae-a86d-500fe759eb0d.svg)
 
@@ -15,8 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 HTML e CSS
 
 Git e Github
-
-Figma
 
 📝Licença
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
