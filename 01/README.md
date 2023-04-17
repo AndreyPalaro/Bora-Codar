@@ -10,11 +10,13 @@ Tecnologias   |    Layout   |    Licença
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-. HTML e CSS
+HTML e CSS
 
-. Git e Github
+Git e Github
 
-. Figma
+Figma
 
-
+🔖 Layout
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Você pode visualizar o layout do projeto através DESSE LINK(https://www.figma.com/community/file/1195050524500542670/%23boraCodar---Desafio-1). É necessário ter conta no Figma para acessá-lo.
 
