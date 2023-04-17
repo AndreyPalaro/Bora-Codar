@@ -1,4 +1,4 @@
-                                                                     Player de Música
+Player de Música
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB.
 
@@ -11,7 +11,9 @@ Tecnologias   |    Layout   |    Licença
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 . HTML e CSS
+
 . Git e Github
+
 . Figma
 
 
