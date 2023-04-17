@@ -8,6 +8,9 @@ Dashboard
 
 🚀 Tecnologias
 -
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 HTML, CSS e SVG
 
 https://bennettfeely.com/clippy/
