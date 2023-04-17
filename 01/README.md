@@ -4,7 +4,6 @@
 
 Tecnologias   |   Licença
 ___________
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![licenseMIT](https://user-images.githubusercontent.com/124744877/232573480-7bad5699-8b5d-4cae-a86d-500fe759eb0d.svg)
 
 ![desafio 01](https://user-images.githubusercontent.com/124744877/231291921-6ea5e2b6-9f1d-4c22-88ac-d486c54de10a.jpg)
