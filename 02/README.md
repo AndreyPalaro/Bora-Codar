@@ -8,7 +8,7 @@ Product Card
 
 🚀 Tecnologias
 -
-HTML e CSS
+HTML, CSS e JS
 
 Git e Github
 
